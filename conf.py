@@ -1,6 +1,6 @@
 import docs_italia_theme
 
-settings_discourse_url = 'https://forum.italia.it/'
+discourse_url = 'https://forum.italia.it/'
 
 extensions = [
     'docs_italia_theme',
