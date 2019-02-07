@@ -31,6 +31,7 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    :alt: Servizio WiFi free
    :name: servizio wifi free
 
+|
 
 .. toctree::
    :maxdepth: 2
